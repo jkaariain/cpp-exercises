@@ -1,0 +1,86 @@
+Syotetiedosto: reseptit-complex.txt
+Tuotantoketjut luettu onnistuneesti.
+testikayttoliittyma> tuntematon_komento
+Virhe:
+testikayttoliittyma> tulostareppu
+testikayttoliittyma> reppu SSS_SSS_SSS_SSS G_G A  T
+Repun sisalto asetettu.
+testikayttoliittyma> tulostareppu
+SSS_SSS_SSS_SSS
+G_G
+A
+T
+testikayttoliittyma> reppu
+Reppu tyhjennetty.
+testikayttoliittyma> tulostareppu
+testikayttoliittyma> reppu   B   C   A   
+Repun sisalto asetettu.
+testikayttoliittyma> tulostareppu
+B
+C
+A
+testikayttoliittyma> reppu X
+Virhe:
+testikayttoliittyma> tulostareppu
+testikayttoliittyma>   reppu UU    T A  VVV 
+Repun sisalto asetettu.
+testikayttoliittyma>         tulostareppu     
+UU
+T
+A
+VVV
+testikayttoliittyma> tulostareppu A
+Virhe:
+testikayttoliittyma> reppu B A B C
+Virhe:
+testikayttoliittyma> tulostareppu
+testikayttoliittyma> materiaalit
+Virhe:
+testikayttoliittyma> materiaalit A
+testikayttoliittyma> materiaalit __PP__PP__  
+H_H_H
+IIII
+_KK
+testikayttoliittyma>  materiaalit  J_
+C
+IIII
+testikayttoliittyma> materiaalit VVV
+N__N
+SSS_SSS_SSS_SSS
+testikayttoliittyma> materiaalit T
+MMM
+N__N
+RRR_RRRRRRR
+SSS_SSS_SSS_SSS
+__OOO
+__PP__PP__
+testikayttoliittyma> materiaalit TUNTEMATON_TUOTE
+Virhe:
+testikayttoliittyma>   reppu B IIII
+Repun sisalto asetettu.
+testikayttoliittyma> askarreltavissa TUNTEMATON_TUOTE
+Virhe:
+testikayttoliittyma> askarreltavissa A B
+Virhe:
+testikayttoliittyma> askarreltavissa
+Virhe:
+testikayttoliittyma> askarreltavissa       J_
+Ei ole askarreltavissa.
+testikayttoliittyma> reppu MMM N__N __OOO __PP__PP__ RRR_RRRRRRR SSS_SSS_SSS_SSS
+Repun sisalto asetettu.
+testikayttoliittyma>    askarreltavissa   T    
+On askarreltavissa.
+testikayttoliittyma> askarreltavissa UU
+On askarreltavissa.
+testikayttoliittyma> reppu C
+Repun sisalto asetettu.
+testikayttoliittyma> askarreltavissa _KK
+Ei ole askarreltavissa.
+testikayttoliittyma> askarreltavissa C
+On askarreltavissa.
+testikayttoliittyma> reppu
+Reppu tyhjennetty.
+testikayttoliittyma> askarreltavissa _KK
+Ei ole askarreltavissa.
+testikayttoliittyma>    loppu   
+
